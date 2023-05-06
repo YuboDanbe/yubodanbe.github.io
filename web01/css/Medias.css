@@ -1,0 +1,108 @@
+@font-face {
+	font-family:FuenteWebUbuntu01;
+	src: url(fuentes/Ubuntu-R.ttf);
+  }
+@font-face {
+	font-family:FuenteWebUbuntu02;
+	src: url(fuentes/Ubuntu-M.ttf);
+  }
+@font-face {
+	  font-family:FuenteWebUbuntu03;
+	  src: url(fuentes/Ubuntu-B.ttf);
+	}
+@media (max-width: 500px) {
+    .Gral01 {
+        width: 100%;
+        height: 100%;
+    }
+    #Logo01{
+        margin: 0 10%;
+        width: 55%;
+    }
+}
+@media (max-width: 400px) {
+  #Logo01{
+      margin: 0 10%;
+      width: 45%;
+  }
+  #Parrafo{
+    font-size: 110%;
+  }
+  .botones{
+    font-size: 100%;
+    height: 40px;
+  }
+  .Iconos{
+    height: 55%;
+  }
+}
+@media (max-height: 650px) {
+  #Logo01{
+      margin: 0 10%;
+      width: 45%;
+  }
+  #Parrafo{
+    font-size: 110%;
+  }
+  .botones{
+    font-size: 100%;
+    height: 40px;
+  }
+  .Iconos{
+    height: 55%;
+  }
+}
+@media (height: 720px) {
+  #Logo01{
+      margin: 0 10%;
+      width: 55%;
+  }
+}
+@media (height: 653px) and (width:280px) {
+  #Logo01{
+      margin: 0 10%;
+      width: 75%;
+  }
+}
+@media (min-height: 740px) {
+  #Logo01{
+      margin: 0 10%;
+      width: 55%;
+  }
+  #Parrafo{
+    margin-top: -10%;
+    font-size: 120%;
+  }
+
+}
+@media (min-height: 1000px) {
+  #Logo01{
+      margin: 0 10%;
+      width: 65%;
+  }
+  #Parrafo{
+    margin-top: -30%;
+    font-size: 150%;
+  }
+  #botoneslista{
+    margin-top: -35%;
+}
+  .botones{
+    font-size: 150%;
+    height: 50px;
+  }
+  .Iconos{
+    height: 65%;
+  }
+}
+@media (min-height: 620px) and (min-width:500px) {
+  #Logo01{
+    width: 55%;
+  }
+  #Parrafo{
+    margin: 0 10% 3% 10%;
+  }
+  .botones{
+    height: 40px;
+  }
+}
