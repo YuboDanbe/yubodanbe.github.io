@@ -8,18 +8,6 @@ body{
   justify-content: center;
   align-items: center;
 }
-/*Contenido*/
-/*#
-Gral01{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    background-color: rgb(212, 180, 214);
-    box-shadow: 0 0 25px 0 rgba(0, 0, 0, 0.25);
-    border-radius: 25px;
-}
-*/
 #IconoYubo01{
     width: 40%;
 }
