@@ -31,7 +31,7 @@ body{
 }
 #Parrafo{
     grid-area: 2;
-    font-family: FuenteWebUbuntu01;
+    font-family: FuenteWebUbuntu02;
     color: #403F41;
     text-align: center;
     font-size: 115%;
@@ -62,7 +62,7 @@ a:hover{
     height: 50px;
     background-color: #A46F18;
     border-radius: 15px;
-    box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1), 3px 3px 5px 0 rgba(0, 0, 0, 0.15);
+    box-shadow: 2px 4px 0 0 rgba(0, 0, 0, .2);
 }
 .TextoBotones{
     margin-left: 10px;
