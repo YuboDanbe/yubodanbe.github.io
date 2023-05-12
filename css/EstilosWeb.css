@@ -51,6 +51,7 @@ body{
 }
 a:hover{
     background-color: #3A393B;
+    box-shadow: 2.5px 3.5px 0 0 rgba(0, 0, 0, .3);
 }
 .botones{
     font-family: FuenteWebUbuntu03;
@@ -62,7 +63,7 @@ a:hover{
     height: 50px;
     background-color: #A46F18;
     border-radius: 15px;
-    box-shadow: 2px 4px 0 0 rgba(0, 0, 0, .2);
+    box-shadow: 3.5px 4.5px 0 0 rgba(0, 0, 0, .1);
 }
 .TextoBotones{
     margin-left: 10px;
