@@ -1,0 +1,15 @@
+{
+  "name": "Musigatari",
+  "short_name": "Musigatari",
+  "description": "Interpretando canciones",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#202020",
+  "theme_color": "#FF9201",
+  "icons": [
+    { "src": "config/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "config/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
